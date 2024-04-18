@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    user-select: none;
+    
+}
+body {
+    overflow: hidden;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+{
+  "main": "./dist/main.js",
+  "dependencies": {
+    "electron": "^30.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@types/electron": "^1.6.10"
+  }
+}
